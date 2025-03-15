@@ -24,7 +24,7 @@ Provides insights into how different factors affect crop yield
 To set up the project locally, follow these steps:
 
 - Clone the repository:																																							
-    git clone https://github.com/yourusername/crop-yield-prediction.git
+    git clone 
   																
 - Navigate to the project directory							
 
